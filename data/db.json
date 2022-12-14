@@ -1,0 +1,151 @@
+{
+  "requisition": [
+    {
+      "id": "1",
+      "name": "test"
+    },
+    {
+      "values": {
+        "requisitionId": "",
+        "dateOfReq": "",
+        "closingDate": "",
+        "client": "",
+        "role": "",
+        "jobType": "",
+        "country": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "min": "",
+        "max": "",
+        "jd": "",
+        "resp": "",
+        "skills": "",
+        "workType": "",
+        "elegibleCriteria": "",
+        "goodToAdd": ""
+      },
+      "id": "lcfj-LE"
+    },
+    {
+      "values": {
+        "requisitionId": "",
+        "dateOfReq": "",
+        "closingDate": "",
+        "client": "",
+        "role": "",
+        "jobType": "",
+        "country": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "min": "",
+        "max": "",
+        "jd": "",
+        "resp": "",
+        "skills": "",
+        "workType": "",
+        "elegibleCriteria": "",
+        "goodToAdd": ""
+      },
+      "id": "nGY0RHe"
+    },
+    {
+      "values": {
+        "requisitionId": "1",
+        "dateOfReq": "2022-12-01",
+        "closingDate": "2022-12-23",
+        "client": "qbotica",
+        "role": "react",
+        "jobType": "full-time",
+        "country": "USA",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "postalCode": "63256",
+        "min": "102633",
+        "max": "151654161",
+        "jd": "loloo",
+        "resp": "loo",
+        "skills": "looll",
+        "workType": "Hybrid",
+        "elegibleCriteria": "2022 pass-out",
+        "goodToAdd": "rpa"
+      },
+      "id": "wPcz8qp"
+    },
+    {
+      "name": "nemal",
+      "age": "11",
+      "id": "pDXkEsK"
+    },
+    {
+      "values": {
+        "requisitionId": "20",
+        "dateOfReq": "2022-12-14",
+        "closingDate": "2022-12-18",
+        "client": "mk",
+        "role": "react",
+        "jobType": "full",
+        "country": "USA",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "postalCode": "200",
+        "min": "21312",
+        "max": "12313123",
+        "jd": "jsdnfsln",
+        "resp": "lksdmfksfmj",
+        "skills": "sfdsjfhbsdjf",
+        "workType": "WFM",
+        "elegibleCriteria": "2022 pass-out",
+        "goodToAdd": "js"
+      },
+      "id": "Tebhm4u"
+    },
+    {
+      "values": {
+        "requisitionId": "",
+        "dateOfReq": "",
+        "closingDate": "",
+        "client": "",
+        "role": "",
+        "jobType": "",
+        "country": "",
+        "city": "Chennai",
+        "state": "",
+        "postalCode": "",
+        "min": "",
+        "max": "",
+        "jd": "",
+        "resp": "",
+        "skills": "",
+        "workType": "",
+        "elegibleCriteria": "",
+        "goodToAdd": ""
+      },
+      "id": "E7dAUwZ"
+    },
+    {
+      "values": {
+        "requisitionId": "",
+        "dateOfReq": "2022-12-08",
+        "closingDate": "",
+        "client": "",
+        "role": "",
+        "jobType": "",
+        "country": "USA",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "postalCode": "",
+        "min": "",
+        "max": "",
+        "jd": "",
+        "resp": "",
+        "skills": "",
+        "workType": "",
+        "elegibleCriteria": "",
+        "goodToAdd": ""
+      },
+      "id": "KTVOpBK"
+    }
+  ]
+}
