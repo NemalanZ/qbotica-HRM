@@ -146,6 +146,29 @@
         "goodToAdd": ""
       },
       "id": "KTVOpBK"
+    },
+    {
+      "values": {
+        "requisitionId": "",
+        "dateOfReq": "",
+        "closingDate": "",
+        "client": "",
+        "role": "",
+        "jobType": "",
+        "country": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "min": "",
+        "max": "",
+        "jd": "",
+        "resp": "",
+        "skills": "",
+        "workType": "",
+        "elegibleCriteria": "",
+        "goodToAdd": ""
+      },
+      "id": "q13b1AM"
     }
   ]
 }
